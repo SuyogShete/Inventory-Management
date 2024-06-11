@@ -43,7 +43,7 @@ function CreateArea() {
 
     try {
       const response = await fetch(
-        `http://localhost:4000/add-product/${productId}/${productQuantity}`,
+        `https://inventory-management-1-8cbo.onrender.com/add-product/${productId}/${productQuantity}`,
         {
           method: "POST",
           headers: {
