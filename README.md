@@ -1,5 +1,3 @@
-## Inventory Management - README
-
 ## Deployed Link - https://adorable-gelato-33e1b7.netlify.app/cart
 
 ## Table of Contents
@@ -33,7 +31,7 @@ This is a full stack web application built using React, Node.js, and Express. It
 
 ### Clone the Repository
 ```bash
-git clone https://github.com/yourusername/fullstack-app.git
+git clone https://github.com/SuyogShete/Inventory-Management/tree/main
 cd Inventory-Management
 ```
 
