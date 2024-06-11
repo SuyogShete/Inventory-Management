@@ -1,4 +1,4 @@
-## Deployed Link - https://adorable-gelato-33e1b7.netlify.app/cart
+## Deployed Link - https://adorable-gelato-33e1b7.netlify.app
 
 ## Table of Contents
 1. [Introduction](#introduction)
