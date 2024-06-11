@@ -1,5 +1,5 @@
 ## Deployed Link - https://adorable-gelato-33e1b7.netlify.app
-## Click on the cart icon in header to visit https://adorable-gelato-33e1b7.netlify.app
+## Click on the cart icon in header to visit https://adorable-gelato-33e1b7.netlify.app/cart
 
 ## Table of Contents
 1. [Introduction](#introduction)
