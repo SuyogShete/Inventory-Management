@@ -12,7 +12,7 @@ function Product(props) {
 
     try {
       const response = await fetch(
-        `https://inventory-management-1-8cbo.onrender.com/delete-product/${productId}/${productQuantity}`,
+        `https://inventory-management-1-8cbo.onrender.com/delete-product/delete-product/${productId}/${productQuantity}`,
         {
           method: "DELETE",
           headers: {
