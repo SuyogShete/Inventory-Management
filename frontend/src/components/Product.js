@@ -12,7 +12,7 @@ function Product(props) {
 
     try {
       const response = await fetch(
-        `http://localhost:4000/delete-product/${productId}/${productQuantity}`,
+        `https://inventory-management-1-8cbo.onrender.com/delete-product/${productId}/${productQuantity}`,
         {
           method: "DELETE",
           headers: {
@@ -47,7 +47,7 @@ function Product(props) {
     };
     try {
       const response = await fetch(
-        `http://localhost:4000/cart/add-product/${productId}/${productQuantity}`,
+        `https://inventory-management-1-8cbo.onrender.com/cart/add-product/${productId}/${productQuantity}`,
         {
           method: "POST",
           headers: {
