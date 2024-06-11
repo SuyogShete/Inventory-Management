@@ -8,7 +8,7 @@ function Home() {
 
   async function fetchProducts() {
     try {
-      const response = await fetch("http://localhost:4000/");
+      const response = await fetch("https://inventory-management-1-8cbo.onrender.com/");
       const products = await response.json();
 
       // Populate the productsArray with the fetched data
