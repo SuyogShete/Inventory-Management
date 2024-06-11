@@ -7,7 +7,7 @@ export const Cart = () => {
 
   async function fetchCartProducts() {
     try {
-      const response = await fetch("http://localhost:4000/cart");
+      const response = await fetch("https://inventory-management-1-8cbo.onrender.com/cart");
       const products = await response.json();
 
       // Populate the productsArray with the fetched data
