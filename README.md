@@ -1,6 +1,15 @@
 ## Deployed Link - https://adorable-gelato-33e1b7.netlify.app
 ## Click on the cart icon in header to visit https://adorable-gelato-33e1b7.netlify.app/cart
 
+## Note : Wait for some time to start the server when you visit the site
+
+### Screenshot of home page of deplyed app
+![Screenshot 2024-06-12 105845](https://github.com/SuyogShete/Inventory-Management/assets/115652302/6303b024-69fe-4596-898e-5889d447b2a8)
+
+### Screenshot of cart page of deployed app
+![Screenshot 2024-06-12 105908](https://github.com/SuyogShete/Inventory-Management/assets/115652302/a08f03e6-8e2a-4527-ae7e-c06f4f7ba22b)
+
+
 ## Table of Contents
 1. [Introduction](#introduction)
 2. [Features](#features)
